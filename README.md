@@ -44,4 +44,4 @@ Missing Word Prompting:
 
 OUTPUT:
 
-RESULT: 
+RESULT: Thus, the experiment is completed successfully,
